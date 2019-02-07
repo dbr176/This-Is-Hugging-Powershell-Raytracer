@@ -1,4 +1,1 @@
-Install-Module -Name Communary.ConsoleExtensions
-
-using module Communary.ConsoleExtensions
-
+![](https://github.com/dbr176/This-Is-Hugging-Powershell-Raytracer/raw/master/Screenshot.jpg)
